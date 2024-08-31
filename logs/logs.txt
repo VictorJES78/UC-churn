@@ -1,0 +1,138 @@
+2023-07-21 18:06:11,596.596 INFO main: This is my info log message
+2023-07-21 18:06:14,725.725 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-24 09:33:31,465.465 INFO main: This is my info log message
+2023-07-24 09:33:38,580.580 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-24 10:11:18,357.357 INFO main: This is my info log message
+2023-07-24 10:11:20,952.952 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-24 10:11:22,847.847 INFO evaluation: ******************************
+2023-07-24 10:11:22,849.849 INFO evaluation: * MLFlow Run
+2023-07-24 10:11:22,850.850 INFO evaluation: ******************************
+2023-07-24 10:11:22,850.850 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:11:22,850.850 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:11:22,851.851 INFO evaluation: Tags: {}
+2023-07-24 10:11:22,851.851 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:11:22,851.851 INFO evaluation: ******************************
+2023-07-24 10:11:45,854.854 INFO main: This is my info log message
+2023-07-24 10:11:50,932.932 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-24 10:11:53,653.653 INFO evaluation: ******************************
+2023-07-24 10:11:53,654.654 INFO evaluation: * MLFlow Run
+2023-07-24 10:11:53,654.654 INFO evaluation: ******************************
+2023-07-24 10:11:53,655.655 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:11:53,655.655 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:11:53,655.655 INFO evaluation: Tags: {}
+2023-07-24 10:11:53,656.656 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:11:53,656.656 INFO evaluation: ******************************
+2023-07-24 10:11:53,656.656 INFO evaluation: Métriques : {}
+2023-07-24 10:11:53,657.657 INFO evaluation: Paramètres : {}
+2023-07-24 10:11:53,657.657 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/18b8085091024f82b86cafb08d7ac653/artifacts
+2023-07-24 10:11:54,097.097 INFO evaluation: ******************************
+2023-07-24 10:11:54,097.097 INFO evaluation: * MLFlow Run
+2023-07-24 10:11:54,097.097 INFO evaluation: ******************************
+2023-07-24 10:11:54,097.097 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:11:54,103.103 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:11:54,103.103 INFO evaluation: Tags: {}
+2023-07-24 10:11:54,103.103 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:11:54,104.104 INFO evaluation: ******************************
+2023-07-24 10:11:54,104.104 INFO evaluation: Métriques : {}
+2023-07-24 10:11:54,104.104 INFO evaluation: Paramètres : {}
+2023-07-24 10:11:54,104.104 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/a760adb6c04148b189a6a88abc6ca008/artifacts
+2023-07-24 10:12:09,361.361 INFO evaluation: ******************************
+2023-07-24 10:12:09,361.361 INFO evaluation: * MLFlow Run
+2023-07-24 10:12:09,361.361 INFO evaluation: ******************************
+2023-07-24 10:12:09,361.361 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:12:09,369.369 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:12:09,369.369 INFO evaluation: Tags: {}
+2023-07-24 10:12:09,369.369 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:12:09,369.369 INFO evaluation: ******************************
+2023-07-24 10:12:09,370.370 INFO evaluation: Métriques : {}
+2023-07-24 10:12:09,370.370 INFO evaluation: Paramètres : {}
+2023-07-24 10:12:09,370.370 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/06fd3b2402714b34877506d36cce3849/artifacts
+2023-07-24 10:12:13,023.023 INFO evaluation: ******************************
+2023-07-24 10:12:13,024.024 INFO evaluation: * MLFlow Run
+2023-07-24 10:12:13,024.024 INFO evaluation: ******************************
+2023-07-24 10:12:13,025.025 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:12:13,025.025 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:12:13,025.025 INFO evaluation: Tags: {}
+2023-07-24 10:12:13,026.026 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:12:13,026.026 INFO evaluation: ******************************
+2023-07-24 10:12:13,026.026 INFO evaluation: Métriques : {}
+2023-07-24 10:12:13,027.027 INFO evaluation: Paramètres : {}
+2023-07-24 10:12:13,027.027 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/b74ca4c0b5c148ccb01b15c539f457b9/artifacts
+2023-07-24 10:17:19,092.092 INFO main: This is my info log message
+2023-07-24 10:17:22,580.580 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-24 10:17:24,465.465 INFO evaluation: ******************************
+2023-07-24 10:17:24,466.466 INFO evaluation: * MLFlow Run
+2023-07-24 10:17:24,466.466 INFO evaluation: ******************************
+2023-07-24 10:17:24,466.466 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:17:24,466.466 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:17:24,467.467 INFO evaluation: Tags: {}
+2023-07-24 10:17:24,467.467 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:17:24,467.467 INFO evaluation: ******************************
+2023-07-24 10:17:24,471.471 INFO evaluation: Métriques : {}
+2023-07-24 10:17:24,471.471 INFO evaluation: Paramètres : {}
+2023-07-24 10:17:24,471.471 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/55e9d2156bd944d6b04dc627a3b44c29/artifacts
+2023-07-24 10:17:24,897.897 INFO evaluation: ******************************
+2023-07-24 10:17:24,897.897 INFO evaluation: * MLFlow Run
+2023-07-24 10:17:24,897.897 INFO evaluation: ******************************
+2023-07-24 10:17:24,897.897 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:17:24,899.899 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:17:24,899.899 INFO evaluation: Tags: {}
+2023-07-24 10:17:24,899.899 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:17:24,899.899 INFO evaluation: ******************************
+2023-07-24 10:17:24,904.904 INFO evaluation: Métriques : {}
+2023-07-24 10:17:24,904.904 INFO evaluation: Paramètres : {}
+2023-07-24 10:17:24,904.904 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/9ce3034781b74cf69e13986b6b7cad9a/artifacts
+2023-07-24 10:17:40,863.863 INFO evaluation: ******************************
+2023-07-24 10:17:40,879.879 INFO evaluation: * MLFlow Run
+2023-07-24 10:17:40,879.879 INFO evaluation: ******************************
+2023-07-24 10:17:40,879.879 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:17:40,880.880 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:17:40,880.880 INFO evaluation: Tags: {}
+2023-07-24 10:17:40,880.880 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:17:40,880.880 INFO evaluation: ******************************
+2023-07-24 10:17:40,883.883 INFO evaluation: Métriques : {}
+2023-07-24 10:17:40,884.884 INFO evaluation: Paramètres : {}
+2023-07-24 10:17:40,884.884 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/bc46753ec5c846ed85300739bc3b5132/artifacts
+2023-07-24 10:17:44,508.508 INFO evaluation: ******************************
+2023-07-24 10:17:44,509.509 INFO evaluation: * MLFlow Run
+2023-07-24 10:17:44,509.509 INFO evaluation: ******************************
+2023-07-24 10:17:44,510.510 INFO evaluation: Experiment_id: 771908563099078902
+2023-07-24 10:17:44,510.510 INFO evaluation: Artifact Location: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902
+2023-07-24 10:17:44,510.510 INFO evaluation: Tags: {}
+2023-07-24 10:17:44,511.511 INFO evaluation: Lifecycle_stage: active
+2023-07-24 10:17:44,511.511 INFO evaluation: ******************************
+2023-07-24 10:17:44,515.515 INFO evaluation: Métriques : {}
+2023-07-24 10:17:44,516.516 INFO evaluation: Paramètres : {}
+2023-07-24 10:17:44,516.516 INFO evaluation: Artifacts: file:///C:/Users/vjesequel/Documents/vj_training_albus/mlruns/771908563099078902/ec35f625ae964165bf7ea1fbe8bfa014/artifacts
+2023-07-24 11:43:14,868.868 INFO main: This is my info log message
+2023-07-24 11:43:18,494.494 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-24 12:18:33,925.925 INFO main: This is my info log message
+2023-07-24 12:18:36,788.788 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-25 14:44:30,271.271 INFO main: This is my info log message
+2023-07-25 14:44:34,310.310 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-25 14:50:19,560.560 INFO main: This is my info log message
+2023-07-25 14:50:23,488.488 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-25 14:51:07,357.357 INFO main: on benchmark les modèles de classification
+2023-07-25 15:20:27,642.642 INFO main: This is my info log message
+2023-07-25 15:20:30,829.829 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-25 15:31:52,577.577 INFO main: This is my info log message
+2023-07-25 15:31:57,003.003 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-25 15:32:51,268.268 INFO main: This is my info log message
+2023-07-25 15:32:56,720.720 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2023-07-25 15:33:52,456.456 INFO main: on benchmark les modèles de classification
+2024-08-31 17:18:30,814.814 INFO main: This is my info log message
+2024-08-31 17:18:58,678.678 INFO main: This is my info log message
+2024-08-31 17:19:10,735.735 INFO main: This is my info log message
+2024-08-31 17:21:41,573.573 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2024-08-31 17:27:49,391.391 INFO main: This is my info log message
+2024-08-31 17:30:35,760.760 INFO main: This is my info log message
+2024-08-31 17:30:40,909.909 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2024-08-31 17:35:20,625.625 INFO main: This is my info log message
+2024-08-31 17:35:25,324.324 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2024-08-31 17:40:08,549.549 INFO main: This is my info log message
+2024-08-31 17:40:13,085.085 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2024-08-31 17:42:39,459.459 INFO main: This is my info log message
+2024-08-31 17:42:43,663.663 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2024-08-31 17:45:55,199.199 INFO main: This is my info log message
+2024-08-31 17:45:58,784.784 INFO main: on affiche les bar plots de répartition de churn: un en fonction du type de client, un en fonction de la branche
+2024-08-31 17:46:25,552.552 INFO main: on benchmark les modèles de classification
