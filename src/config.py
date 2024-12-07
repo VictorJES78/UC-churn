@@ -1,8 +1,4 @@
 # Here you should define all your constant variable that are parameters of your whole project
-# like paths to data, list of expected files for checks, information to connect to mail server etc.
-# please see wiki here https://confluence.par.quinten.io/pages/viewpage.action?pageId=43102811
-
-
 import logging
 
 # ===================================================
@@ -50,8 +46,4 @@ NUM_FEATURES = [
             "diff_var_20_38",
             "diff_var_0_38",
         ]
-
-BUCKET_NAME = "s3-common-dev2022070518193446540000000a"
-FOLDER_NAME = "training_vjesequel/plots/"
-
-print("Ceci est un fichier de configuration")
+# ===================================================

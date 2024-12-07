@@ -3,7 +3,7 @@ import argparse
 
 def simple_parser():
     parser = argparse.ArgumentParser(
-        description="MY AWESOME PROJECT", epilog="Developped by VJ"
+        description="CHURN PROJECT", epilog="Developped by VJ"
     )
 
     parser.add_argument(
